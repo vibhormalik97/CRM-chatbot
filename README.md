@@ -1,7 +1,7 @@
 # CRM-chatbot
 
 ** This project was done as part of a challenge for applying to an internship with a tech company specializing in Customer Relationship Management(CRM) 
-AI solutions.
+AI solutions. **
 
 The given data has a lot of questions with unique question IDs and about 3-5 options for every question. 
 Every question has one or more answer labelled as correct.
