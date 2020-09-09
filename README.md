@@ -1,5 +1,7 @@
 # CRM-chatbot
-
+<p>
+<img src="https://ismguide.com/wp-content/uploads/2018/01/Artifical-Intelligence1.jpg">
+</p>
 ** This project was done as part of a challenge for applying to an internship with a tech company specializing in Customer Relationship Management(CRM) 
 AI solutions. **
 
